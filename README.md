@@ -1,6 +1,7 @@
 # DESCRIPTION
 uni-app + unocss + wot ui tamplate
-# node version 18
+# env
+node 18
 # install
 ```bash
 pnpm i
